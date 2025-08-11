@@ -1,0 +1,24 @@
+name,item_type,rarity,rank,price,weight,durability,magazine,physical_attack,page
+Assault Rifle,Weapon,0,3,82400,15,3000.0,20.0,320.0,1
+Stone Axe,Weapon,0,1,200,10,150.0,,20.0,1
+Metal Axe,Weapon,0,2,2800,15,250.0,,30.0,1
+Refined Metal Axe,Weapon,0,3,7000,20,300.0,,60.0,1
+Axe4,Weapon,0,3,33000,25,400.0,,75.0,1
+Metal Detector,Weapon,0,3,33000,25,400.0,,,1
+Wooden Club,Weapon,0,1,80,5,150.0,,25.0,1
+Bat,Weapon,0,1,80,3,150.0,,50.0,1
+Meat Cleaver,Weapon,0,1,100,10,300.0,,25.0,1
+Stun Baton,Weapon,0,2,19000,10,300.0,,10.0,1
+Crossbow,Weapon,0,2,25200,13,300.0,1.0,280.0,1
+Double-Barreled Shotgun,Weapon,0,3,55200,24,200.0,2.0,190.0,1
+Handgun,Weapon,0,2,33000,8,400.0,8.0,250.0,1
+Decal Gun 1,Weapon,0,2,33000,8,,99.0,,1
+Decal Gun 2,Weapon,0,2,33000,8,,99.0,,1
+Decal Gun 3,Weapon,0,2,33000,8,,99.0,,1
+Decal Gun 4,Weapon,0,2,33000,8,,99.0,,1
+Decal Gun 5,Weapon,0,2,33000,8,,99.0,,1
+Homing Sphere Launcher,Weapon,0,4,460000,30,,,,1
+Laser Rifle,Weapon,0,4,324000,18,3000.0,30.0,1250.0,1
+Rocket Launcher,Weapon,0,4,324000,30,300.0,1.0,10000.0,1
+Stone Pickaxe,Weapon,0,1,200,10,150.0,,20.0,1
+Metal Pickaxe,Weapon,0,2,2800,15,250.0,,30.0,1
